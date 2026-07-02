@@ -36,4 +36,10 @@ El objetivo es aprender el control individual de los motores y comprender cómo 
 ## Indicaciones de la actividad
 <img width="446" height="151" alt="image" src="https://github.com/user-attachments/assets/3f44be40-e3d2-4a92-9b62-6d3e5c7a7f98" />
 
+#Video de la actividad
+
+https://github.com/user-attachments/assets/4ec0990e-c86b-4b3f-b724-be9ee1dd56d8
+
+
+
 
