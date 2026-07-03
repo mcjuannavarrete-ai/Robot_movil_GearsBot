@@ -5,7 +5,7 @@ Instructor: Maestro Ing. Carlos Antonio Tovar García
 Estudiante: Juan Navarrete Guzmán
 
 Plantel: CBTis 100
-
+## Tarea 2
 ## Descripción
 Esta actividad consiste en programar un robot LEGO EV3 para realizar un recorrido mediante motores diferenciales. El robot avanza en varios tramos rectos y efectúa cuatro giros a la derecha, con el propósito de aproximarse a una trayectoria cerrada, similar a un cuadrado
 
