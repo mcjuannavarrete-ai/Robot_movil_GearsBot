@@ -31,6 +31,9 @@ Programar el robot EV3 para:
 * Pybricks MicroPython
 * Visual Studio Code
 
+## Indicaciones de la actividad
+<img width="501" height="106" alt="image" src="https://github.com/user-attachments/assets/85e98369-9616-41db-a651-1c025e46ac85" />
+
 ## video de la practica
 
 https://github.com/user-attachments/assets/5d50ba4b-cf14-4477-909b-5584085e2b56
