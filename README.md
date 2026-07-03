@@ -7,7 +7,7 @@ Estudiante: Juan Navarrete Guzmán
 Plantel: CBTis 100
 
 Robot EV3 - Tarea 1: Movimientos Básicos con Pybricks
-
+# Tarea 1
 ## Descripción
 
 Este proyecto corresponde a una práctica básica de programación para el robot LEGO EV3 utilizando Pybricks MicroPython.
