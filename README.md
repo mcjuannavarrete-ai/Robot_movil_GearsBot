@@ -25,4 +25,6 @@ A diferencia del control ON/OFF, el control proporcional no aplica siempre el mi
 
 ## Video de la práctica ON/OFF
 
+## Video de la práctica Control Proporcional
+
 
