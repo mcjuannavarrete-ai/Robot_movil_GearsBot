@@ -39,7 +39,7 @@ El objetivo es aprender el control individual de los motores y comprender cómo 
 #Video de la actividad
 
 <p align="center">
-"https://github.com/user-attachments/assets/4ec0990e-c86b-4b3f-b724-be9ee1dd56d8" width="200" controls></video>
+<video src= "https://github.com/user-attachments/assets/4ec0990e-c86b-4b3f-b724-be9ee1dd56d8" width="200" controls></video>
 </p>
 
 
