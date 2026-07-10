@@ -36,5 +36,11 @@ Programar el robot EV3 para:
 
 ## video de la practica
 
-https://github.com/user-attachments/assets/5d50ba4b-cf14-4477-909b-5584085e2b56
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/e24b822a-4eb5-4cbb-bed5-80f86e7b4e33" width="2
+
+
+
+00" controls></video>
+</p>
 
