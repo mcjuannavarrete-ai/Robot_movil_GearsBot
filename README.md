@@ -1,6 +1,6 @@
-##Robótica Móvil con LEGO EV3 y Pybricks MicroPython
+# Robótica Móvil con LEGO EV3 y Pybricks MicroPython
 
-Descripción
+# Descripción
 Este repositorio contiene las prácticas desarrolladas con LEGO Mindstorms EV3, Pybricks MicroPython y el simulador GearsBot.
 Las actividades abordan el control básico de motores, trayectorias programadas, detección de obstáculos con sensor ultrasónico, seguimiento de línea con sensor de color y corrección de trayectoria mediante giroscopio.
 
