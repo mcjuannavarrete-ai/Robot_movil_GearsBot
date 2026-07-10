@@ -36,7 +36,20 @@ Desarrollar un programa para un robot móvil EV3 que mida la distancia a un obst
 
 ## Video de la práctica
 
-https://github.com/user-attachments/assets/a4c79326-42d3-4528-9204-6ee7734870c5
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/6b6fb7dd-694b-4f36-9f14-420b54c08ec6" width="400" controls></video>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
