@@ -16,14 +16,16 @@ Es aplicar fundamentos de robótica móvil: movimiento diferencial, lectura de s
 * Extensión Pybricks para Visual Studio Code.
 
 # Configuración general del robot
-Componente	Puerto
-Motor izquierdo	A
-Motor derecho	B
-Sensor de color	S1
-Sensor ultrasónico	S2
-Sensor giroscópico	S3
-Prácticas incluidas
-Práctica	Archivo sugerido	Tema principal
+* Componente	Puerto
+* Motor izquierdo	A
+* Motor derecho	B
+* Sensor de color	S1
+* Sensor ultrasónico	S2
+* Sensor giroscópico	S3
+
+# Prácticas incluidas
+
+|Práctica|	Archivo sugerido|	Tema principal|
 Tarea 1	tarea1.py	Movimientos básicos: avance, giro a la derecha y giro a la izquierda.
 Tarea 2	tarea2.py	Recorrido con varios avances y cuatro giros a la derecha.
 Tarea 3	tarea3.py	Evasión de obstáculos con sensor ultrasónico y control en lazo cerrado.
