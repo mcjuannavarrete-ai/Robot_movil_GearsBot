@@ -4,16 +4,18 @@
 Este repositorio contiene las prácticas desarrolladas con LEGO Mindstorms EV3, Pybricks MicroPython y el simulador GearsBot.
 Las actividades abordan el control básico de motores, trayectorias programadas, detección de obstáculos con sensor ultrasónico, seguimiento de línea con sensor de color y corrección de trayectoria mediante giroscopio.
 
-# El propósito general es aplicar fundamentos de robótica móvil: movimiento diferencial, lectura de sensores, toma de decisiones, control en lazo cerrado y control proporcional.
+# El propósito general 
+Es aplicar fundamentos de robótica móvil: movimiento diferencial, lectura de sensores, toma de decisiones, control en lazo cerrado y control proporcional.
 
-Tecnologías utilizadas
-Python.
-Pybricks MicroPython.
-LEGO Mindstorms EV3.
-GearsBot Simulator.
-Visual Studio Code.
-Extensión Pybricks para Visual Studio Code.
-Configuración general del robot
+# Tecnologías utilizadas
+* Python.
+* Pybricks MicroPython.
+* LEGO Mindstorms EV3.
+* GearsBot Simulator.
+* Visual Studio Code.
+* Extensión Pybricks para Visual Studio Code.
+
+# Configuración general del robot
 Componente	Puerto
 Motor izquierdo	A
 Motor derecho	B
