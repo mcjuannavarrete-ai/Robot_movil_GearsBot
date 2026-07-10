@@ -26,10 +26,23 @@ A diferencia del control ON/OFF, el control proporcional no aplica siempre el mi
 ## Video de la práctica ON/OFF
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/fc00360a-98c9-401a-ace8-9da235e15b3b" width="400" controls></video>
+  <video src="https://github.com/user-attachments/assets/fc00360a-98c9-401a-ace8-9da235e15b3b" width="200" controls></video>
 </p>
 
 
 ## Video de la práctica Control Proporcional
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/7a1ffa2b-482a-4ad5-97a8-f5e48faef399" width="200" controls></video>
+</p>
+
+
+
+
+
+
+
+
+
 
 
